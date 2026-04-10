@@ -34,6 +34,7 @@
     h2 { width: 95%; display: block; }
   }
 </style>
+
 ## 1. PENDIENTE (SICI)
 
 - SICI-CE-01 “Ética”
